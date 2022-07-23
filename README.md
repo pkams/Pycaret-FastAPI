@@ -2,9 +2,9 @@
 Training a Machine Learning model with Pycaret and Deploying it with FASTApi.
 
 To install all the libraries used in this project:
->> pip install pipenv
->> cd <to_project_folder>
->> pipenv install 
+> pip install pipenv
+> cd <to_project_folder>
+> pipenv install 
 
 The EDA and model training process can be seen in the "Pycaret and FastAPI - Example end to end.ipynb" file.
 
